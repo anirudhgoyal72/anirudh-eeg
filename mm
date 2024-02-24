@@ -1,6 +1,3 @@
 ,ll
-ddx
-
-
 mm
 dd
